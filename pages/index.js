@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Bookmakers Opening Times</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Bookies Opening Hours UK" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Betting Shop Store Opening Times Near Me 
         </p>
       </main>
 
